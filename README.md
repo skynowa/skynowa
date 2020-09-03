@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Authors: skynowa
+### Hi, I'm Skynowa! 👋
 
 E-mail:  skynowa@gmail.com
 
