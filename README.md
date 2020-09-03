@@ -11,4 +11,4 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - ⚡ Fun fact: ... -->
 
-https://github-readme-stats.vercel.app/api?username=skynowa
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=skynowa)](https://github.com/skynowa/xLib)
