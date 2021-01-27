@@ -6,7 +6,7 @@
   - E-mail:  skynowa@gmail.com
   - Skype:   skynowa777
 - 😄 Pronouns: He/His
-- ⚡ [My CV](https://github.com/skynowa/MyCV)
+- ⚡ [My CV](https://github.com/skynowa/MyCV/wiki)
 
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
