@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Skynowa! ![GitHub watchers](https://img.shields.io/github/watchers/skynowa)
+### 👋 Hi, I'm Skynowa! ![GitHub watchers](https://img.shields.io/github/watchers/skynowa/skynowa)
 
 - 🔭 I’m currently working on C++ xLib library
 - 🌱 I’m currently learning C++
