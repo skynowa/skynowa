@@ -1,4 +1,4 @@
-### Hi, I'm Skynowa! 👋
+### Hi, I'm Skynowa! 👋 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=skynowa.visitor-badge)
 
 - 🔭 I’m currently working on C++ xLib library
 - 🌱 I’m currently learning C++
